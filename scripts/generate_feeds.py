@@ -32,6 +32,7 @@ PROGRAMS = {
     "wikiradio": "https://www.raiplaysound.it/programmi/wikiradio",
     "wikiradiolevocidellastoria": "https://www.raiplaysound.it/programmi/wikiradiolevocidellastoria",
     "grsicilia": "https://www.raiplaysound.it/programmi/grsicilia"
+    "favole-e-storie-di-gianni-rodari": "https://www.raiplaysound.it/playlist/favoleestoriedigiannirodari"
 }
 for name, url in PROGRAMS.items():
     print(f"Generazione feed per {name}...")
